@@ -1,5 +1,5 @@
 # retail-sales-dashboard
-**Dataset:** 'Superstore Sales Dataset' published by Rohti Sahoo on Kaggle
+**Dataset:** 'Superstore Sales Dataset' published by NAYAKGANESH007 on Kaggle
 
 **Audience:** Sales Director
 
