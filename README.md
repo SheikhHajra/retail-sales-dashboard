@@ -9,4 +9,4 @@
 2. Does discounting hurt margin?
 3. Which customers are the most valuable?
 
-**Tools:** Power BI Desktop, Power Query, DAX, Power BI Service
+**Tools:** Power BI Desktop, Power Query, DAX, Star-schema modeling, Drill-through, Power BI Service, Scheduled refresh
